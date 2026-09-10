@@ -1,0 +1,9 @@
+{
+  "name": "data-toolkit",
+  "description": "Skills del equipo de Data IT de Cabify: convenciones SQL y definiciones de métricas de negocio",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cabify Data IT",
+    "email": "data-it@cabify.com"
+  }
+}

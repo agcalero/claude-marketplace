@@ -1,0 +1,24 @@
+{
+  "name": "cabify-data-it-marketplace",
+  "owner": {
+    "name": "Cabify Data IT",
+    "email": "data-it@cabify.com"
+  },
+  "description": "Marketplace interno de plugins de Cabify Data IT para Claude Cowork",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "data-toolkit",
+      "displayName": "Data Toolkit",
+      "source": "./plugins/data-toolkit",
+      "description": "Skills del equipo de Data IT: guía de estilo SQL y diccionario de métricas de negocio",
+      "version": "1.0.0",
+      "author": {
+        "name": "Cabify Data IT"
+      },
+      "keywords": ["sql", "metricas", "data"],
+      "category": "data",
+      "defaultEnabled": true
+    }
+  ]
+}
